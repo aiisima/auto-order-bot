@@ -1,0 +1,38 @@
+{
+  "orders": [],
+  "users": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product Premium A",
+      "price": 100000,
+      "stock": 10,
+      "description": "Produk premium berkualitas tinggi",
+      "file_id": null,
+      "file_type": null
+    },
+    {
+      "id": 2,
+      "name": "Product Premium B",
+      "price": 150000,
+      "stock": 5,
+      "description": "Produk dengan fitur lengkap",
+      "file_id": null,
+      "file_type": null
+    },
+    {
+      "id": 3,
+      "name": "Product Premium C",
+      "price": 200000,
+      "stock": 8,
+      "description": "Produk terbaik untuk kebutuhan Anda",
+      "file_id": null,
+      "file_type": null
+    }
+  ],
+  "settings": {
+    "maintenance": false,
+    "auto_approve": true,
+    "admin_id": "1160418392"
+  }
+}
