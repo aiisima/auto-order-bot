@@ -1,0 +1,20 @@
+{
+  "name": "medusa auto order",
+  "version": "1.0.0",
+  "description": "auto order",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3",
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "nodemon": "^3.0.1",
+    "axios": "^1.6.0"
+  },
+  "keywords": ["telegram", "bot", "auto-order"],
+  "author": "aiisima",
+  "license": "MIT"
+}
